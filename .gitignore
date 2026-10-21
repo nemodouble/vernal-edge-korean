@@ -1,0 +1,9 @@
+private/
+dist/
+__pycache__/
+*.pyc
+*.win
+*.exe
+*.dll
+.vernal-edge-ko-backup/
+translation/worktable.json
