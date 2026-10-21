@@ -2,6 +2,8 @@
 
 배포 후보본: `dist/VernalEdge-Korean-0.1.0-beta.3.zip`.
 
+공개 저장소: https://github.com/nemodouble/vernal-edge-korean
+
 - `translation/prototype.json`: 최초 시제품 번역. 세그먼트가 같은 ID를 덮어쓰면 세그먼트가 우선한다.
 - `translation/segments/*.json`: 전체 번역 원본. ID는 원본 프랑스어 JSON의 영어 키 순서에 고정되어 있으며 원본 해시를 검사한다.
 - `translation/revisions/full-review.json`: 전체 재검토 수정안과 항목별 수정 이유. 시제품·세그먼트보다 우선한다.

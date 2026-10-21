@@ -59,4 +59,4 @@ Windows PowerShell 5.1 이상에서 동작하며 관리자 권한이나 Python �
 
 원본 실행 파일·전체 게임 데이터·개발용 원본 백업·다운로드한 개발 도구는 저장소와 설치용 ZIP에 포함하지 않습니다. 패치는 사용자가 보유한 지원 원본을 이용해 차분을 재구성합니다.
 
-Vernal Edge 및 원본 자산의 권리는 원저작자에게 있습니다. Galmuri11 2.40.4는 SIL Open Font License 1.1을 따릅니다. [구성 요소 고지](docs/THIRD_PARTY_NOTICES.md)와 [폰트 라이선스](Galmuri-LICENSE.txt)를 참고하세요.
+Vernal Edge 및 원본 자산의 권리는 원저작자에게 있습니다. Galmuri11 2.40.4는 SIL Open Font License 1.1을 따릅니다. [구성 요소 고지](docs/THIRD_PARTY_NOTICES.md)와 [폰트 라이선스](licenses/Galmuri-LICENSE.txt)를 참고하세요. 폰트 라이선스는 해당 구성 요소에 적용됩니다.
